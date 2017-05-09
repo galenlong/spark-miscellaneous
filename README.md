@@ -1,2 +1,2 @@
-# spark-garbage
+# spark-miscellaneous
 Miscellaneous spark scripts.
